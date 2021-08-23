@@ -1,6 +1,6 @@
 # x7y62
 
-👋 Hello guys!
+👋 Hello everyone!
 * I'm [@x7y62][1].
 * I'm a self-taught full stack developer.
 * I'm currently learning [React][2] and [WebGL][3].
