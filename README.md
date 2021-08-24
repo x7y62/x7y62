@@ -5,7 +5,7 @@
 * I'm a self-taught full stack developer.
 * I'm currently learning [React][2] and [WebGL][3].
 
-### About me
+### About Me
 ```ts
 class User {
   // Private info
@@ -41,10 +41,14 @@ class User {
 }
 ```
 
-### GitHub statistics
-[![GitHub statistics][4]][4]
+### GitHub Statistics
+[![GitHub Statistics][4]][4]
+
+### Language Usage
+[![Language Usage][5]][5]
 
 [1]: https://github.com/x7y62
 [2]: https://github.com/facebook/react
 [3]: https://github.com/KhronosGroup/WebGL
 [4]: https://github-readme-stats.vercel.app/api?username=x7y62&show_icons=true&theme=midnight-purple&hide_border=true
+[5]: https://github-readme-stats.vercel.app/api/top-langs?username=x7y62&show_icons=true&theme=midnight-purple&hide_border=true&layout=compact&langs_count=10
